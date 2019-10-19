@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.thumbnail img{
+    width: 100% ;
+    border-radius: 20px;
+}
+
+.thumbnail {
+    width: 100% ;
+    border-radius: 20px;
+    padding: 0;
+}
+
+.but{
+	display: inline;
+}
+
+.jumbotron{
+  color: red;
+  background-color: #1C2833;
+}
+
+.container .jumbotron{
+    border-radius: 20px;
+  }
+  #p1{
+    color: rgb(9, 191, 58);
+  }
+  .navbar-default{
+    background-color: #1C2833;
+  }
+
+
+.navbar-default .navbar-nav>li>a{
+    color: #ffffff;
+}
+
+.navbar-default .navbar-brand {
+      color: #ffffff;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+    background-color: #000000;
+    color:#f4a742 ;
+    transition: all 0.9s;
+}
+
+.navbar-default .navbar-brand:hover{
+    background-color: #000000;
+    color:#f4a742 ;
+    transition: all 0.9s;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
