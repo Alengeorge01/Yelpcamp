@@ -1,5 +1,7 @@
 var campground = require("../models/campground");
 var comment = require("../models/comment");
+var user = require("../models/user");
+
 var middlewareobj ={};
 
 middlewareobj.checkcampground = function(req,res,next){

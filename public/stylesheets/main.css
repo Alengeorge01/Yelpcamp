@@ -23,6 +23,10 @@
   background-color: #1C2833;
 }
 
+.container {
+  color : #000;
+}
+
 .container .jumbotron{
     border-radius: 20px;
   }

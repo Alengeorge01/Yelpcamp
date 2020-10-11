@@ -13,6 +13,19 @@ body {
   color: #fff;
 }
 
+#landing-header h2 {
+  color: #fff;
+}
+#landing-header h3 {
+  color: #fff;
+}
+#landing-header h4 {
+  color: #fff;
+}
+#landing-header h5 {
+  color: #fff;
+}
+
 .slideshow { 
   position: fixed;
   width: 100%;
@@ -23,6 +36,11 @@ body {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+
+.slideshow p{ 
+  position: fixed;
 }
 
 .slideshow li { 
